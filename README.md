@@ -19,3 +19,4 @@ let c = 4.6;
 // Only change code below this line
 
 a = a * 5;
+b = 3 * b;
