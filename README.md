@@ -23,3 +23,4 @@ a = a * 5;
 b = 3 * b;
 
 c = c * 10;
+a should equal 25.
