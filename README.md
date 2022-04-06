@@ -25,6 +25,7 @@ b = 3 * b;
 c = c * 10;
 
 a should equal 25.
+
 b should equal 36.
 
 c should equal 46.
